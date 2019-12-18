@@ -1,2 +1,18 @@
-
-[]
+[
+  {
+    "id": 1,
+    "name": "korzinka.uz",
+    "cardImage": "https://shamsidin.github.io/card/korzinka.jpg"
+  },
+  {
+    "id": 2,
+    "name": "makro",
+    "cardImage": "https://shamsidin.github.io/card/makro.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Yapona Mama",
+    "cardImage": "https://shamsidin.github.io/card/yapona.jpg"
+  }
+  
+]
