@@ -1,4 +1,5 @@
 {
 	"id" : "1",
-	"cardNumber" : "8992772485012"
+	"cardNumber" : "8992772485012",
+        "barcodeFormat" : "EAN_13"
 }
