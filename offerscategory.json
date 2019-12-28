@@ -1,10 +1,12 @@
 [
   {
     "id": 1,
+    "categoryName": "Black Star burger",
     "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg"
   },
   {
     "id": 2,
+    "categoryName": "Black Star burger",
     "categoryImage": "https://shamsidin.github.io/card/img/category_blackstar.jpg"
   }
 ]
