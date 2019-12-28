@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg",
+    "imageUrl": "https://shamsidin.github.io/card/img/burger.jpg",
+    "title": "Black Star Burger",
+    "price": "21 000 сум"
+  },
+  {
+    "id": 1,
+    "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg",
+    "imageUrl": "https://shamsidin.github.io/card/img/burger.jpg",
+    "title": "Black Star Burger",
+    "price": "21 000 сум"
+  },
+  {
+    "id": 1,
+    "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg",
+    "imageUrl": "https://shamsidin.github.io/card/img/burger.jpg",
+    "title": "Black Star Burger",
+    "price": "21 000 сум"
+  },
+  {
+    "id": 1,
+    "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg",
+    "imageUrl": "https://shamsidin.github.io/card/img/burger.jpg",
+    "title": "Black Star Burger",
+    "price": "21 000 сум"
+  }
+]
