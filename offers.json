@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "categoryName": "Black Star burger",
     "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg",
     "imageUrl": "https://shamsidin.github.io/card/img/burger.jpg",
     "title": "Black Star Burger",
@@ -8,6 +9,7 @@
   },
   {
     "id": 1,
+    "categoryName": "Black Star burger",
     "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg",
     "imageUrl": "https://shamsidin.github.io/card/img/burger.jpg",
     "title": "Black Star Burger",
@@ -15,6 +17,7 @@
   },
   {
     "id": 1,
+    "categoryName": "Black Star burger",
     "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg",
     "imageUrl": "https://shamsidin.github.io/card/img/burger.jpg",
     "title": "Black Star Burger",
@@ -22,6 +25,7 @@
   },
   {
     "id": 1,
+    "categoryName": "Black Star burger",
     "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg",
     "imageUrl": "https://shamsidin.github.io/card/img/burger.jpg",
     "title": "Black Star Burger",
