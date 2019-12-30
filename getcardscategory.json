@@ -2,17 +2,22 @@
   {
     "id": 101,
     "name": "korzinka.uz",
-    "imageUrl": "https://shamsidin.github.io/card/korzinka.jpg"
+    "imageUrl": "https://shamsidin.github.io/card/img/korzinka.jpg"
   },
   {
     "id": 102,
     "name": "makro",
-    "imageUrl": "https://shamsidin.github.io/card/makro.jpg"
+    "imageUrl": "https://shamsidin.github.io/card/img/makro.jpg"
   },
   {
     "id": 103,
     "name": "Yapona Mama",
     "imageUrl": "https://shamsidin.github.io/card/yapona.jpg"
+  },
+   {
+    "id": 104,
+    "name": "Другие",
+    "imageUrl": "https://shamsidin.github.io/card/img/makro.jpg"
   }
   
 ]
