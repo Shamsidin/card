@@ -1,12 +1,17 @@
 [
   {
     "id": 1,
-    "categoryName": "Black Star burger",
-    "categoryImage": "https://shamsidin.github.io/card/img/category_makro.jpg"
+    "categoryName": "Korzinka",
+    "categoryImage": "https://shamsidin.github.io/card/img/korzinka_aksiya.png"
   },
   {
     "id": 2,
-    "categoryName": "Black Star burger",
-    "categoryImage": "https://shamsidin.github.io/card/img/category_blackstar.jpg"
+    "categoryName": "Yapona mama",
+    "categoryImage": "https://shamsidin.github.io/card/img/yapona_aksiya.jpg"
+  },
+  {
+    "id": 3,
+    "categoryName": "Makro",
+    "categoryImage": "https://shamsidin.github.io/card/img/makro_aksiya.jpeg"
   }
 ]
