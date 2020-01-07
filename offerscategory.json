@@ -1,17 +1,29 @@
 [
   {
     "id": 1,
-    "categoryName": "Korzinka",
-    "categoryImage": "https://shamsidin.github.io/card/img/korzinka_aksiya.png"
+    "marketName": "Korzinka",
+    "date": "02.01.2020",
+    "marketImage": "https://shamsidin.github.io/card/img/korzinka_aksiya.png",
+    "title": "Of on affixed civilly moments promise explain fertile in.",
+    "shortDescription": "Lain week nay she them her she. Extremity so attending objection as engrossed gentleman something.",
+    "fullDescription": "Icon style. This style is meant to be used when the icon attribute is set for the button and the iconGravity is start. The .Icon style has a smaller start padding to achieve visual balance in the button when a start-gravity icon is present."
   },
   {
     "id": 2,
-    "categoryName": "Yapona mama",
-    "categoryImage": "https://shamsidin.github.io/card/img/yapona_aksiya.jpg"
+    "marketName": "Yapona mama",
+    "date": "02.01.2020",
+    "marketImage": "https://shamsidin.github.io/card/img/yapona_aksiya.jpg",
+    "title": "Of on affixed civilly moments promise explain fertile in.",
+    "shortDescription": "Lain week nay she them her she. Extremity so attending objection as engrossed gentleman something.",
+    "fullDescription": "Icon style. This style is meant to be used when the icon attribute is set for the button and the iconGravity is start. The .Icon style has a smaller start padding to achieve visual balance in the button when a start-gravity icon is present."
   },
   {
     "id": 3,
-    "categoryName": "Makro",
-    "categoryImage": "https://shamsidin.github.io/card/img/makro_aksiya.jpeg"
+    "marketName": "Makro",
+    "date": "02.01.2020",
+    "marketImage": "https://shamsidin.github.io/card/img/makro_aksiya.jpeg",
+    "title": "Of on affixed civilly moments promise explain fertile in.",
+    "shortDescription": "Lain week nay she them her she. Extremity so attending objection as engrossed gentleman something.",
+    "fullDescription": "Icon style. This style is meant to be used when the icon attribute is set for the button and the iconGravity is start. The .Icon style has a smaller start padding to achieve visual balance in the button when a start-gravity icon is present."
   }
 ]
